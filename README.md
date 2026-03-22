@@ -10,6 +10,7 @@
 
 | Brand | Code/Link | Discount | Category | Status |
 |-------|-----------|----------|----------|--------|
+| [TradingView](https://promocode.network/tradingview-promo-code/) | Referral Link | $15 Referral Bonus | Trading & Finance | Verified |
 | [Binance](https://promocode.network/binance-referral-code/) | `PRM26` | 20% Lifetime Fee Reduction | Trading & Finance | Verified |
 | [NordVPN](https://promocode.network/nordvpn-promo-code/) | Auto-applied | Up to 74% Off | Cybersecurity | Verified |
 | [Kinsta](https://promocode.network/kinsta-promo-code/) | Annual billing | 2 Months Free | Web Hosting | Verified |
