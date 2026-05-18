@@ -107,6 +107,35 @@ Independently tested picks based on specific use cases:
 
 ---
 
+## In-Depth Guides (Pillar Content, May 2026)
+
+Long-form, independently tested guides covering crypto exchanges, VPN setups, web hosting and trading platforms.
+
+### Crypto Guides
+- [Crypto Exchange Fee Comparison 2026: Bybit vs Binance vs OKX vs Bitget](https://promocode.network/guides/crypto/crypto-exchange-fee-comparison-2026/)
+- [Bybit Fees Explained 2026: Complete Breakdown](https://promocode.network/guides/crypto/bybit-fees-explained-2026/)
+- [We Tested 100 Promo Codes - Real Success Rate Data](https://promocode.network/guides/crypto/we-tested-100-promo-codes-success-rate/)
+
+### VPN Guides
+- [Best NordVPN Server for Crypto Trading 2026](https://promocode.network/guides/vpn/best-nordvpn-server-crypto-trading-2026/)
+- [NordVPN Annual vs 2-Year Plan: Which Saves More in 2026?](https://promocode.network/guides/vpn/nordvpn-annual-vs-2-year-plan/)
+- [NordVPN and Crypto Exchanges: When IPs Get Banned (and What to Do)](https://promocode.network/guides/vpn/nordvpn-crypto-exchanges-ip-bans/)
+- [NordVPN Server Speed Test May 2026](https://promocode.network/guides/vpn/nordvpn-server-speed-test-may-2026/)
+
+### Hosting Guides
+- [Kinsta Pricing Plans 2026: Complete Breakdown](https://promocode.network/guides/hosting/kinsta-pricing-plans-2026/)
+- [Kinsta vs WP Engine vs Cloudways: Performance Test 2026](https://promocode.network/guides/hosting/kinsta-vs-wp-engine-vs-cloudways-performance-test/)
+- [Why Cheap Hosting Costs More Long-Term](https://promocode.network/guides/hosting/why-cheap-hosting-costs-more-long-term/)
+
+### Trading Guides
+- [Best TradingView Indicators for Crypto Trading 2026](https://promocode.network/guides/trading/best-tradingview-indicators-crypto-2026/)
+- [How to Connect TradingView to Bybit](https://promocode.network/guides/trading/how-to-connect-tradingview-to-bybit/)
+- [TradingView Pricing Plans Compared 2026](https://promocode.network/guides/trading/tradingview-pricing-plans-compared-2026/)
+
+All guides include real-world test data, fee tables and citation-ready FAQ sections. Reviewed and tested by Sascha Martins, May 2026.
+
+---
+
 ## 🔬 Verification Methodology
 
 Every code listed here is verified through the following process:
